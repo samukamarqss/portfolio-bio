@@ -4,7 +4,7 @@ Uma página pessoal estilo link na bio, desenvolvida com **HTML** e **CSS**, com
 
 ## ✨ Funcionalidades
 
-- Foto e nome de perfil
+- Nome de perfil
 - Descrição pessoal
 - Botões para redes sociais e contato
 - Seção de habilidades
